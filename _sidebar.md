@@ -1,6 +1,7 @@
 - Getting started
     - [Introduction](/)
-    - [How can I help?](/help/README.md)
+    - [How can I contribute?](/help/README.md)
+    - [About](/about/README.md)
 
 - Novelty search over learned representations
     - [What is that?](/novelty-search-learned/README.md)
